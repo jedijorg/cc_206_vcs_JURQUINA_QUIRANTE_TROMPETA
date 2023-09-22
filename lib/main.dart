@@ -1,3 +1,13 @@
+//{Member 1 Jehan Didrey Jurquina}: {what doesnt kill u makes u stronger}
+//{Member 2 Andrea Bea Quirante}:{Slay lang ng Slay!}
+//{Member 3 Kyla Joy Trompeta}:{Importanti Buhi:>}
+
+
+
+
+
+
+
 import 'package:flutter/material.dart';
 
 void main() {
