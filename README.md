@@ -27,7 +27,6 @@ Flutter Grocery App UI
 -------------  
 
 ## Screens  
-- Splash Screen  
 - Welcome Screen  
 - Home Screen(Shop)  
 - Product Details Screen  
@@ -38,4 +37,4 @@ Flutter Grocery App UI
 - Checkout Bottom Sheet  
 - Order Failed Dialog  
 - Order Accepted Screen  
-- Profile Screen
+
